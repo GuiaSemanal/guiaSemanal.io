@@ -1,0 +1,2 @@
+# guiaSemanal.io
+Guia Semanal
